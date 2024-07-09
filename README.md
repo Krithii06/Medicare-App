@@ -1,5 +1,8 @@
 # Multiple Disease Prediction Web App using Machine Learning Algorithm 
 
+![MEDICARE app Image](https://github.com/Krithii06/Medicare-App/assets/115915867/eb6023a7-9cbc-425f-aad1-a144f0c2ebdb)
+
+
 # Steps Involed for Prediction:
 
 # Step 1: 
